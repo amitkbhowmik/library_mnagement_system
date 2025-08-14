@@ -4,14 +4,13 @@ This project is a full-stack web application built using React js for the fronte
 
 ## User Interface Screenshots 
 #### Dashboard
-![Dashboard](./frontend/public/ss/dashboard.png)
+![WhatsApp Image 2025-08-14 at 21 04 10](https://github.com/user-attachments/assets/3ca45b1b-8aa3-4caf-8090-c95d94640b48)
 
 #### Books
-![Dashboard](./frontend/public/ss/books.png)
+![WhatsApp Image 2025-08-14 at 21 04 10 (2)](https://github.com/user-attachments/assets/840ebba5-7cbb-4712-abab-2a3687c65331)
 
 #### Authors
-![Dashboard](./frontend/public/ss/authors.png)
-
+![WhatsApp Image 2025-08-14 at 21 04 10 (1)](https://github.com/user-attachments/assets/71083677-6a20-42ac-9792-93a7a0b5c943)
 
 ## Connecting to private EC2 instance via a bastion host
 1. To change the ssh key permission:
